@@ -1,2 +1,2 @@
 # games
-Simple pyhton games
+Simple python games
