@@ -1,1 +1,1 @@
-Simple python alien invasion game using pygame.
+GUI python alien invasion game using pygame.
