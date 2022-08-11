@@ -17,3 +17,4 @@ class Settings:
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = (181, 137, 2)  # Mustard Yellow
+        self.bullets_allowed = 3
