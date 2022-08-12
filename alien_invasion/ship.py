@@ -39,3 +39,8 @@ class Ship:
 
         # Update the ships position
         self.rect.x = self.x
+
+    def center_ship(self):
+        """Center ship bottom of screen"""
+        self.rect.midbottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
