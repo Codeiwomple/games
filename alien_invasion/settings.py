@@ -18,3 +18,8 @@ class Settings:
         self.bullet_height = 15
         self.bullet_color = (181, 137, 2)  # Mustard Yellow
         self.bullets_allowed = 3
+
+        # Alien settings
+        self.alien_speed = 1
+        self.fleet_drop_speed = 10
+        self.fleet_direction = 1  # 1 for right, -1 left
